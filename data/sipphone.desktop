@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Name=SipPhone
+GenericName=SIP Phone
+GenericName[ru]=SIP-телефон
+Comment=Lightweight SIP softphone
+Comment[ru]=Лёгкий SIP-телефон
+Exec=sipphone %u
+Icon=call-start
+Terminal=false
+Categories=Network;Telephony;
+Keywords=sip;voip;phone;call;
+MimeType=x-scheme-handler/sip;x-scheme-handler/tel;x-scheme-handler/callto;
+StartupNotify=true
